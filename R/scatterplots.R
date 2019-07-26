@@ -6,7 +6,7 @@
 #'
 #' @return plots
 #'
-#' @examples
+#' @example eg_data = matrix(rnorm(1000,mean=10,ncol=10,nrow=10)) scatterplots(eg_data)
 #'
 #' @export scatterplots
 
